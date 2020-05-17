@@ -151,8 +151,6 @@ fields Bytes, DateLog, and the aggregate function SUM( ) will be involved in
 the query.
 10. Should you have time left, create new SELECT queries
 that you believe can analyse the data.
-(Students who use the tutor’s account should
-skip section 11; all other students MUST do it)
 11. Terminate Your Cluster:
 Terminating your cluster will stop charging on your account for using it.
 As before, to terminate your Amazon EMR cluster
